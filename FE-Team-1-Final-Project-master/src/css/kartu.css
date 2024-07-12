@@ -1,0 +1,18 @@
+.text-family {
+  font-family: "Poppins", sans-serif;
+}
+
+.btn-filter-size {
+  color: #000000 !important;
+  border-color: #f1f3ff;
+}
+.btn-filter-size:hover {
+  color: #000000;
+  border-color: #d56dba;
+  background-color: #cfd4ed;
+}
+.btn-primary {
+  background-color: #e2d4f0;
+  color: #000000;
+  border-color: #7126b5;
+}

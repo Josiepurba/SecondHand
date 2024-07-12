@@ -1,0 +1,32 @@
+.image-upload > input {
+  display: none;
+}
+
+.image-preview {
+  width: 126px;
+  height: 126px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  border: 2px solid grey;
+  border-radius: 16px;
+}
+
+.carousel-img {
+  object-fit: cover;
+}
+
+.btn-back {
+  outline: none;
+  border-style: none;
+  color: black;
+  transition: none !important;
+}
+
+.btn-back:hover {
+  background-color: unset !important;
+  color: unset !important;
+}
+
+.preview-carousel {
+  height: 450px !important;
+}
