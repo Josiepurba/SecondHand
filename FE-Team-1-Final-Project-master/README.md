@@ -6,3 +6,4 @@
 4. Hayisra
 5. Naufal Rizqullah Mubarak
 6. Josie G.F Purba
+![alt text](SecondHand-1.png)
